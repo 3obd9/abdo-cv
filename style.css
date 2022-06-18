@@ -1,7 +1,7 @@
 
 h1 {
     color: white !important;
-    font-size: 1rem !important;
+    font-size: 5rem !important;
     padding-bottom: 30px;
     font-family: 'Anek Malayalam', sans-serif;
 }
@@ -23,7 +23,7 @@ img{
 }
 .header-p {
     color: #a8a8a8;
-    font-size: 1rem;
+    font-size: 1.2rem;
     padding-bottom: 30px;
 }
 .about-me{
@@ -48,16 +48,17 @@ img{
 }
 @media (max-width: 800px){
     h1{
-        font-size: 175px;
+        font-size: 2rem;
     }
     img{
-        width: 200px;
+        width: 350px;
     }
     .p-about-me{
-        font-size: 1rem;
+        width: 300;
     }
     .header-p{
-        font-size: 30px;
+        width: 200;
+        font-size: 1rem;
     }
 
 
