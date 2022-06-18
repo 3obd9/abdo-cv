@@ -46,16 +46,15 @@ img{
     background-color: #ECDBBA;
     padding: 70px 70px;
 }
-@media (max-width: 500px){
+@media (max-width: 800px){
     h1{
-        font-weight: 700;
-        font-size: 75px;
+        font-size: 175px;
     }
     img{
-        width: 100px;
+        width: 200px;
     }
     .p-about-me{
-        font-size: 25px;
+        font-size: 1rem;
     }
     .header-p{
         font-size: 30px;
