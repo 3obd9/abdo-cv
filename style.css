@@ -48,11 +48,11 @@ img{
 }
 @media (max-width: 800px){
     h1{
-        font-size: 1rem;
+        font-size: 12px;
     }
     .header-p{
-        width: 250px;
-        font-size: 1rem;
+        width: 200px;
+        font-size: 10px;
     }
     img{
         width: 270px;
