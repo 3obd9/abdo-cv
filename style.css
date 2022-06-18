@@ -48,18 +48,19 @@ img{
 }
 @media (max-width: 800px){
     h1{
-        font-size: 2rem;
-    }
-    img{
-        width: 350px;
-    }
-    .p-about-me{
-        width: 300;
-    }
-    .header-p{
-        width: 200;
         font-size: 1rem;
     }
+    .header-p{
+        width: 250px;
+        font-size: 1rem;
+    }
+    img{
+        width: 270px;
+    }
+    .p-about-me{
+        width: 250px;
+    }
+    
 
 
 }
