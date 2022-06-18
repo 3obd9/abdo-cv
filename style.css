@@ -48,11 +48,13 @@ img{
 }
 @media (max-width: 800px){
     h1{
-        font-size: 12px;
+        font-size: 12px !important;
+        text-align: center !important;
     }
     .header-p{
-        width: 200px;
-        font-size: 10px;
+        width: 300px;
+        font-size: 12px;
+        text-align: center !important;
     }
     img{
         width: 270px;
