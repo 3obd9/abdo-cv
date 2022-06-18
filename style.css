@@ -48,7 +48,7 @@ img{
 }
 @media (max-width: 800px){
     h1{
-        font-size: 20px !important;
+        font-size: 270px !important;
         text-align: center !important;
     }
     .header-p{
@@ -60,7 +60,7 @@ img{
         width: 270px;
     }
     .p-about-me{
-        width: 280px;
+        width: 300px;
     }
     #buttom{
         padding: 70px 30px;
