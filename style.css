@@ -1,7 +1,7 @@
 
 h1 {
     color: white !important;
-    font-size: 5rem !important;
+    font-size: 1rem !important;
     padding-bottom: 30px;
     font-family: 'Anek Malayalam', sans-serif;
 }
@@ -23,7 +23,7 @@ img{
 }
 .header-p {
     color: #a8a8a8;
-    font-size: 1.2rem;
+    font-size: 1rem;
     padding-bottom: 30px;
 }
 .about-me{
@@ -46,8 +46,20 @@ img{
     background-color: #ECDBBA;
     padding: 70px 70px;
 }
-/* @media (max-width: 500px){
-    #header{
-        padding: 18% 15%;
+@media (max-width: 500px){
+    h1{
+        font-weight: 700;
+        font-size: 75px;
     }
-} */
+    img{
+        width: 100px;
+    }
+    .p-about-me{
+        font-size: 25px;
+    }
+    .header-p{
+        font-size: 30px;
+    }
+
+
+}
